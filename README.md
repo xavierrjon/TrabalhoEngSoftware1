@@ -2,6 +2,7 @@
 Trabalho prático da disciplina de **Engenharia de Software I**.
 
 ## Proposta do Projeto
+Prato Seguro é um aplicativo mobile com foco em segurança alimentar e combate ao desperdício. Seu objetivo é ajudar as pessoas a identificarem alimentos vencidos ou mal armazenados em casa, promovendo o consumo consciente, prevenindo intoxicações alimentares e incentivando práticas sustentáveis no dia a dia. O app oferece cadastro de alimentos com data de validade, alertas preventivos, guia de armazenamento seguro e funcionalidades offline — tudo com uma interface simples e acessível, especialmente pensada para comunidades com pouca educação alimentar.
 ---
 
 ## Objetivo Geral
