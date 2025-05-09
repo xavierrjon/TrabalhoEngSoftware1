@@ -16,6 +16,15 @@ Andrey Rodrigues
 
 ## Equipe de Desenvolvimento
 ---
+1. Alexandre Reis dos Santos
+
+2. Johnny da Silva Xavier
+
+3. Juliano Matheus Amazonas de Souza
+
+4. Nathalya Christinne de Sá Macedo
+
+5. Raíssa Martins de Oliveira
 
 ## Etapas do Projeto
 ---
