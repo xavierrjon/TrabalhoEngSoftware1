@@ -6,6 +6,7 @@ Prato Seguro é um aplicativo mobile com foco em segurança alimentar e combate 
 ---
 
 ## Objetivo Geral
+Desenvolver um aplicativo mobile que auxilie usuários a monitorar a validade e o armazenamento adequado de alimentos, promovendo segurança alimentar, prevenção de intoxicações e redução do desperdício doméstico.
 ---
 
 ## Objetivos Específicos
