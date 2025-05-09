@@ -28,4 +28,4 @@ Andrey Rodrigues
 
 ## Etapas do Projeto
 ---
-- ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/1-DesignThinking)
+- ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/1-DesignThinking)
