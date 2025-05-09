@@ -9,4 +9,6 @@ Personas são representações fictícias, baseadas em dados reais, que represen
 * Soluções Existentes.
   
 ## Persona 1: Suporte Técnico
-<p align="center"><img src="images/Persona1.png" style="width:50%"/></p>
+
+<p align="center"><img src="images/Persona1.png" style="width:100%"/></p>
+
