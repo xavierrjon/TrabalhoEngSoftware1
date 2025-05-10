@@ -6,6 +6,9 @@ O Prato Seguro surge como uma alternativa gratuita, funcional offline e com fort
 ### Concorrência:
 Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
 - *Yuka* – Analisa rótulos de alimentos e cosméticos.
+
+![yuka jpeg](https://github.com/user-attachments/assets/f12dbb90-8b46-49ca-94a9-c9ecc81e8ab9)
+
   
 - *NoWaste* – Gerencia alimentos, mas precisa de conexão e não oferece dicas de armazenamento.
   
