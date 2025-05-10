@@ -5,17 +5,20 @@ O Prato Seguro surge como uma alternativa gratuita, funcional offline e com fort
 
 ### Concorrência:
 Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
-- *Yuka* – Analisa rótulos de alimentos e cosméticos.
+- *Yuka* – Yuka é um aplicativo que analisa a composição de produtos alimentícios e cosméticos, avaliando seu impacto na saúde. Ele funciona através de um scanner que decifra rótulos e fornece uma avaliação do produto em um sistema de cores (excelente, bom, medíocre, ruim), além de oferecer informações detalhadas e sugestões de alternativas mais saudáveis.
+  
+<p align="center"><img src="images_mercado/yuka1.jpeg" style="width:50%"/></p>   <p align="center"><img src="images_mercado/yuka2.jpeg" style="width:50%"/></p>
 
-![yuka jpeg](https://github.com/user-attachments/assets/f12dbb90-8b46-49ca-94a9-c9ecc81e8ab9)
 
   
-- *NoWaste* – Gerencia alimentos, mas precisa de conexão e não oferece dicas de armazenamento.
-
+- *NoWaste* – O NoWaste é um aplicativo gratuito que permite aos usuários monitorar, organizar e gerenciar os alimentos em casa, com o objetivo de reduzir o desperdício e economizar dinheiro. Disponível para dispositivos iOS, o app oferece ferramentas para criar listas de inventário para a geladeira, freezer e despensa, facilitando o controle dos itens disponíveis e suas datas de validade.
+  
 ![ChatGPT Image 10 de mai  de 2025, 16_35_25](https://github.com/user-attachments/assets/48aa7302-66f8-4b9c-8681-6d7d146df8ec)
 
   
-- *Fridge Pal* – Organiza o que há na geladeira, porém com interface desatualizada e sem foco social.
+- *Fridge Pal* – O FridgePal AI é um aplicativo gratuito para iOS que utiliza inteligência artificial para sugerir receitas com base nos ingredientes disponíveis na sua geladeira. Com apenas um vídeo da sua geladeira, o app identifica os itens presentes e propõe receitas personalizadas, considerando preferências alimentares, ferramentas de cozinha e nível de habilidade culinária. 
+AppBrain
+
 
 ![ChatGPT Image 10 de mai  de 2025, 17_02_24](https://github.com/user-attachments/assets/a92116e4-c232-4cbb-af86-338183ac685e)
 
@@ -27,7 +30,7 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
 
 ### Quadro Comparativo
 
-| Critérios/Soluções       | **NoWaste**                | **Fridge Pal**            | **Yuka**                    | **EcoMida**                                              |
+| Critérios/Soluções       | **NoWaste**                | **Fridge Pal AI**          | **Yuka**                    | **EcoMida**                                              |
 |--------------------------|----------------------------|----------------------------|-----------------------------|---------------------------------------------------------------|
 | **Modelo de negócio**    | Freemium                   | Gratuito com anúncios      | Freemium                    | Gratuito com foco social                                      |
 | **Tecnologia utilizada** | App móvel (iOS/Android)    | App móvel (iOS/Android)    | App móvel com scanner       | App móvel com banco local + backup               |
