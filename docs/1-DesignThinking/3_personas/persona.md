@@ -10,10 +10,10 @@ Personas são representações fictícias, baseadas em dados reais, que represen
   
 ## Persona 1: Usuário Comum
 
-<p align="center"><img src="images/Persona2.png" style="width:70%"/></p>
+<p align="center"><img src="images/Persona2.jpg" style="width:70%"/></p>
 
 ## Persona 2:  Usuário PcD (Pessoa com deficiência)
-<p align="center"><img src="images/Persona3.jpg" style="width:70%"/></p>
+<p align="center"><img src="images/Persona3.png" style="width:70%"/></p>
 
 ## Persona 3: Suporte Técnico
 
