@@ -12,11 +12,11 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
 
 
   
-- *NoWaste* – O NoWaste é um aplicativo gratuito que permite aos usuários monitorar, organizar e gerenciar os alimentos em casa, com o objetivo de reduzir o desperdício e economizar dinheiro. Disponível para dispositivos iOS, o app oferece ferramentas para criar listas de inventário para a geladeira, freezer e despensa, facilitando o controle dos itens disponíveis e suas datas de validade.
+- *NoWaste* – O NoWaste é um aplicativo gratuito que permite aos usuários monitorar, organizar e gerenciar os alimentos em casa, com o objetivo de reduzir o desperdício e economizar dinheiro. O app oferece ferramentas para criar listas de inventário para a geladeira, freezer e despensa, facilitando o controle dos itens disponíveis e suas datas de validade.
   
 <p align="center"><img src="images_mercado/nowaste.png" style="width:70%"/></p>
   
-- *Fridge Pal AI* – O FridgePal AI é um aplicativo gratuito para iOS que utiliza inteligência artificial para sugerir receitas com base nos ingredientes disponíveis na sua geladeira. Com apenas um vídeo da sua geladeira, o app identifica os itens presentes e propõe receitas personalizadas, considerando preferências alimentares, ferramentas de cozinha e nível de habilidade culinária. 
+- *Fridge Pal AI* – O FridgePal AI é um aplicativo gratuito que utiliza inteligência artificial para sugerir receitas com base nos ingredientes disponíveis na sua geladeira. Com apenas um vídeo da sua geladeira, o app identifica os itens presentes e propõe receitas personalizadas, considerando preferências alimentares, ferramentas de cozinha e nível de habilidade culinária. 
 AppBrain
 
 <p align="center"><img src="images_mercado/fridgepal.png" style="width:70%"/></p> 
