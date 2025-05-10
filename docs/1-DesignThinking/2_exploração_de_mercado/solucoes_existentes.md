@@ -17,7 +17,8 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
   
 - *Fridge Pal* – Organiza o que há na geladeira, porém com interface desatualizada e sem foco social.
 
-![ChatGPT Image 10 de mai  de 2025, 16_34_15](https://github.com/user-attachments/assets/4c0c7d9d-8696-4bee-82a9-009399a7e616)
+![ChatGPT Image 10 de mai  de 2025, 16_35_25](https://github.com/user-attachments/assets/ab12c847-4f0d-45e7-93f6-a2c680660527)
+
 
 
 
