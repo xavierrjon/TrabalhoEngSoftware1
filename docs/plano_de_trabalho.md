@@ -151,9 +151,14 @@ abordagem ágil com Scrum, utilizando sprints curtas para entregas iterativas.
 A equipe do projeto será composta por até 5 alunos, com papéis definidos para otimizar o 
 desenvolvimento.
 
-|Papel            |Responsabilidades    |
-|-----------------|---------------------|
-|                 |                     |
+| Integrante      |Papel              |Responsabilidades    |
+|-----------------|-------------------|---------------------|
+| Johnny Xavier   |Product Owner (PO) |                     |
+| Raíssa Oliveira |Scrum Master (SM)  |                     |
+| Nathalya Macêdo |Desenvolvedor (Dev)|                     |
+| Alexandre Santos|Desenvolvedor (Dev)|                     |
+| Juliano Souza   |Desenvolvedor (Dev)|                     |
+
 
 ## 3.3 Backlog do Sprint 
 O backlog do sprint é uma lista de tarefas e funcionalidades que a equipe se compromete 
@@ -184,7 +189,6 @@ semana.
 ontem? O que farei hoje? Tenho algum impedimento?".
 - No final da sprint, a equipe realiza uma Sprint Review para demonstrar o que foi entregue 
 e uma Sprint Retrospective para discutir melhorias.
-
 
 
 
