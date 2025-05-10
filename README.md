@@ -8,7 +8,7 @@ O EcoMida é um app projetado para ajudar pessoas a identificarem alimentos venc
 Elaborar a documentação completa e detalhada de um app que promova a segurança alimentar.
 
 ## Docente Responsável:
-Prof. Dr Andrey Antônio de Oliveira Rodrigues
+Prof. Dr. Andrey Antônio de Oliveira Rodrigues
 
 ## Equipe de Desenvolvimento:
 1. Alexandre Reis dos Santos - 22402232
