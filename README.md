@@ -1,5 +1,5 @@
-# (Nome do App)
-Trabalho prático da disciplina de **Engenharia de Software I**.
+# EcoMida
+Trabalho prático da disciplina **Engenharia de Software I**.
 
 ## Proposta do Projeto:
 O Prato Seguro é um app projetado para ajudar pessoas a identificarem alimentos vencidos ou mal armazenados em casa, promovendo o consumo consciente, prevenindo intoxicações alimentares e incentivando práticas sustentáveis no dia a dia.
