@@ -1,7 +1,7 @@
-## Introdução:
+## O que são Personas?
 Personas são representações fictícias, baseadas em dados reais, que representam um grupo de usuários ou clientes com características, comportamentos, necessidades e objetivos em comum. Elas são amplamente aplicadas em áreas como design, marketing, desenvolvimento de produtos e experiência do usuário (UX) para guiar decisões estratégicas, usando perfis que refletem os potenciais consumidores ou usuários finais. Criar personas permite às equipes entender melhor os desejos e frustrações de seu público, tornando possível desenvolver produtos e serviços mais alinhados com as expectativas e necessidades genuínas dos usuários.
 
-## Principais componentes de uma persona:
+## Principais componentes de uma Persona:
 * Quem (Dados Pessoais);
 * Contexto;
 * Experiências Prévias/Preferências;
