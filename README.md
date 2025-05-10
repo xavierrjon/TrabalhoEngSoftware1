@@ -1,4 +1,4 @@
-# EcoMida
+# *EcoMida*
 Trabalho prático da disciplina **Engenharia de Software I**.
 
 ## Proposta do Projeto:
