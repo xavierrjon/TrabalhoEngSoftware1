@@ -8,11 +8,15 @@ Personas são representações fictícias, baseadas em dados reais, que represen
 * Problemas/Necessidades/Desejos;
 * Soluções Existentes.
   
-## Persona 1: Suporte Técnico
+## Persona 1: Usuário Comum
+
+<p align="center"><img src="images/Persona2.png" style="width:70%"/></p>
+
+## Persona 2:  Usuário com Necessidades Especiais
+
+<p align="center"><img src="images/Persona3.jpg" style="width:70%"/></p>
+
+## Persona 3: Suporte Técnico
 
 <p align="center"><img src="images/Persona1.png" style="width:70%"/></p>
-
-## Persona 2: Usuário Comum
-
-<p align="center"><img src="images/Persona2.jpg" style="width:70%"/></p>
 
