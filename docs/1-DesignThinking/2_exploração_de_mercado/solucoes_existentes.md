@@ -15,7 +15,7 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
   
 
   
-- *Fridge Pal* – O FridgePal AI é um aplicativo gratuito para iOS que utiliza inteligência artificial para sugerir receitas com base nos ingredientes disponíveis na sua geladeira. Com apenas um vídeo da sua geladeira, o app identifica os itens presentes e propõe receitas personalizadas, considerando preferências alimentares, ferramentas de cozinha e nível de habilidade culinária. 
+- *Fridge Pal AI* – O FridgePal AI é um aplicativo gratuito para iOS que utiliza inteligência artificial para sugerir receitas com base nos ingredientes disponíveis na sua geladeira. Com apenas um vídeo da sua geladeira, o app identifica os itens presentes e propõe receitas personalizadas, considerando preferências alimentares, ferramentas de cozinha e nível de habilidade culinária. 
 AppBrain
 
 <p align="center"><img src="images_mercado/fridgepal.png" style="width:70%"/></p> 
