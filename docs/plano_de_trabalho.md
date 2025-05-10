@@ -15,76 +15,62 @@
 |1.0           |Elaboração do Plano de Trabalho| Alexandre Santos, Johnny Xavier, Juliano Souza, Nathalya Macedo, Raíssa Oliveira|          10/05/2025             |
 
 ## 1. INTRODUÇÃO 
-A introdução apresenta um panorama geral do projeto, contextualizando seu propósito, 
-justificativa e características principais. 
+O presente trabalho tem como objetivo o desenvolvimento de um aplicativo móvel voltado para auxiliar pessoas na identificação de alimentos vencidos ou mal armazenados em casa. A proposta busca promover o consumo seguro, prevenir intoxicações alimentares e contribuir para a redução do desperdício de alimentos, especialmente em contextos com pouca educação alimentar.
+
+O aplicativo conta com funcionalidades simples e eficazes, como cadastro de alimentos com validade e local de armazenamento, alertas de vencimento, guia de armazenamento seguro. Com foco em usabilidade e acessibilidade, o projeto também considera a inclusão de pessoas com TEA e reforça seu compromisso com a saúde pública e a sustentabilidade.
+ 
 
 ## 1.1 Objeto 
-Descreve o que será desenvolvido. Deve ser um resumo objetivo do software, explicando 
-sua função principal. 
-Exemplo: 
-O projeto consiste no desenvolvimento de um sistema web para gestão de eventos 
-acadêmicos, permitindo o cadastro de participantes, submissão de trabalhos e emissão de 
-certificados. 
+
+O software a ser desenvolvido é um aplicativo móvel com a função principal de ajudar os usuários a controlar a validade e o armazenamento adequado dos alimentos em casa. A aplicação permitirá o cadastro de produtos com informações como nome, data de validade, local de armazenamento e foto opcional. Também enviará alertas de vencimento, oferecerá um guia de armazenamento seguro. Seu objetivo é promover o consumo seguro, evitar intoxicações alimentares e reduzir o desperdício de alimentos de forma simples, acessível e eficaz.
+
 
 ## 1.2 Motivação, Justificativa e Oportunidade 
-Explica o motivo pelo qual o projeto é relevante, destacando problemas que ele resolve e 
-as oportunidades de aplicação. 
-Exemplo: 
-Atualmente, muitas instituições enfrentam dificuldades na organização de eventos 
-acadêmicos, dependendo de processos manuais e propensos a erros. Esse sistema visa 
-automatizar e centralizar a gestão desses eventos, aumentando a eficiência e reduzindo falhas. 
+O projeto é relevante porque aborda problemas cotidianos que impactam diretamente a saúde, a economia doméstica e o meio ambiente: o consumo de alimentos vencidos, o armazenamento inadequado e o desperdício de comida. Muitas pessoas, por falta de organização ou de conhecimento, acabam ingerindo produtos fora da validade ou descartando alimentos ainda próprios para consumo, o que pode gerar riscos à saúde e perdas financeiras.
 
 ## 1.3 Caracterização do Projeto 
-Aqui são definidos atributos que classificam o projeto em diferentes categorias. 
 
 ## 1.3.1 Classe 
-Indica a categoria geral do projeto, especificando suas características principais. É uma 
-forma de classificar o software dentro de um grupo maior de sistemas.
 
 | Classe          | Detalhamento |
 |-----------------|--------------|
-| Aplicativo Móvel    |          |
+| Aplicativo Móvel    | Um app de gestão de alimentos         |
 
 ## 1.3.2 Enquadrabilidade 
-A enquadrabilidade define em que contexto ou regulamento o projeto se encaixa. Isso 
-pode incluir aspectos como sua finalidade (educacional, comercial, governamental), licenciamento (software livre ou proprietário) e conformidade com normas específicas. 
 
 | Enquadrabilidade          | Detalhamento |
 |---------------------------|--------------|
-|                           |              |
+|  Software de Uso Doméstico|O app será usado para ajudar na gestão de alimentos           |
 
 ## 1.3.3 Tipo
 
 | Tipo          | Detalhamento |
 |---------------|--------------|
-|                              |
+| Trabalho Acadêmico |O desenvolvimento será realizado no contexto de uma disciplina de Engenharia de Software|
 
 ## 2. INFORMAÇÕES GERAIS 
-Esta seção define o que o projeto pretende desenvolver, suas limitações, tecnologias 
-utilizadas e a inovação que ele traz.  
 
 ## 2.1 Escopo Geral 
-O escopo geral descreve, de forma ampla, as funcionalidades e objetivos principais do 
-sistema, delimitando o que será entregue no projeto. 
-Exemplo: 
-O projeto visa desenvolver um sistema web para gestão de eventos acadêmicos, 
-permitindo o cadastro de eventos, inscrição de participantes, submissão de trabalhos e emissão de 
-certificados digitais.
+
+O projeto visa desenvolver um aplicativo móvel para o controle doméstico de alimentos, permitindo o **cadastro de produtos**, o envio de **alertas de validade**, o acesso a **dicas de armazenamento seguro** e a **exportação de dados**. O sistema também será adaptado para **pessoas com TEA**, promovendo acessibilidade, segurança alimentar e redução do desperdício.
+
 
 ## 2.1.1 Escopo Específico 
-O escopo específico detalha as funcionalidades e requisitos que serão implementados. 
-Aqui, é importante listar as principais entregas do sistema. 
-Exemplo: - Cadastro e gerenciamento de eventos. - Inscrição de participantes e controle de presença. - Submissão e avaliação de trabalhos científicos. - Geração e envio de certificados digitais. - Painel administrativo para organizadores de eventos. - Isso garante que todos saibam exatamente o que será desenvolvido dentro do projeto.
+- Cadastro e gerenciamento de alimentos (nome, validade, local de armazenamento, foto opcional).
+- Envio de alertas sobre alimentos próximos da data de vencimento.
+- Acesso a um guia rápido com dicas de armazenamento seguro por categoria (carnes, vegetais, laticínios etc.).
+- Filtro para exibir alimentos vencidos ou próximos do vencimento.
+- Interface acessível com opção de layout simplificado para usuários com TEA.
+- Personalização visual com temas minimalistas ou lúdicos.
 
 ## 2.1.2 Escopo Negativo 
-O escopo negativo define o que não será desenvolvido, evitando expectativas erradas 
-sobre funcionalidades que não fazem parte do projeto. 
-Exemplo: - Não haverá integração com redes sociais para login. - O sistema não incluirá um aplicativo móvel, apenas uma versão web responsiva. - Não serão implementadas funcionalidades avançadas de inteligência artificial para análise 
-de dados.
+- Não haverá integração com redes sociais para login ou compartilhamento.
+- O sistema não incluirá funcionalidades de leitura automática de rótulos ou códigos de barras.
+- Não serão implementadas funções de compras ou integração com supermercados.
+- Não serão desenvolvidas funcionalidades avançadas de inteligência artificial para recomendação de consumo.
+- O sistema não contará com funcionalidades de controle nutricional ou contagem de calorias.
 
 ## 2.2 Ambiente de Desenvolvimento 
-Aqui são descritas as tecnologias e ferramentas que serão utilizadas no desenvolvimento 
-do projeto. Pode ser representado em uma tabela. 
 
 | Componente                  | Tecnologia/Ferramenta              | 
 |-----------------------------|------------------------------------|
@@ -95,23 +81,19 @@ do projeto. Pode ser representado em uma tabela.
 | Desenvolvimento do MVP      |                                    |
 
 ## 2.3 Características Inovadoras do Projeto 
-Aqui são descritas as inovações do projeto, ou seja, o que o torna diferente de soluções já 
-existentes. 
-Exemplo: - Automação na emissão de certificados: O sistema gera certificados digitais 
-automaticamente, eliminando processos manuais. - Interface intuitiva e responsiva: O design prioriza usabilidade, permitindo acesso fácil via 
-celular e computador. - Plataforma unificada: Diferente de soluções existentes, que exigem múltiplas ferramentas, 
-este sistema reúne todas as funções em um só ambiente.
+- Alertas personalizados de validade: O aplicativo envia notificações automáticas antes do vencimento dos alimentos, ajudando o usuário a consumir de forma segura e consciente.
+- Interface acessível para pessoas com TEA: Diferente de soluções genéricas, o sistema oferece layout simplificado, personalização visual e linguagem clara, promovendo inclusão.
+- Guia de armazenamento integrado: O aplicativo inclui um guia prático e direto sobre como conservar diferentes tipos de alimentos, evitando perdas por mau armazenamento.
+- Foco na sustentabilidade e saúde pública: O projeto vai além da organização doméstica, promovendo educação alimentar e redução de desperdício em comunidades vulneráveis.
 
 ## 2.4 Resultados Esperados 
-Aqui são listados os principais resultados esperados após a conclusão do projeto. 
-Exemplo: - Um sistema funcional para gestão de eventos acadêmicos, permitindo a organização de 
-conferências e simpósios.  - Redução do tempo gasto pelos organizadores na emissão de certificados e controle de 
-inscrições.  - Interface intuitiva que melhora a experiência dos usuários ao se inscreverem e enviarem 
-trabalhos.  - Relatórios de participação detalhados, facilitando a análise do evento. 
+- Um aplicativo funcional para controle doméstico de alimentos, permitindo o cadastro, monitoramento e organização dos produtos armazenados.
+- Redução do desperdício de alimentos por meio de alertas preventivos e orientações sobre armazenamento adequado.
+- Promoção do consumo seguro, ajudando a evitar a ingestão de alimentos vencidos e os riscos à saúde associados.
+- Maior autonomia e inclusão de pessoas com TEA, com interface acessível e personalizável.
+- Melhoria na educação alimentar dos usuários, especialmente em comunidades com baixo acesso à informação.
 
 ## 3. METODOLOGIA DE PROJETO 
-Esta seção descreve como o projeto será conduzido, desde a concepção até a entrega do 
-MVP (Produto Mínimo Viável), detalhando as fases, equipe e cronograma.
 
 ## 3.1 Estrutura do Projeto 
 O desenvolvimento do projeto será dividido em cinco fases principais, seguindo a 
@@ -153,11 +135,11 @@ desenvolvimento.
 
 | Integrante      |Papel              |Responsabilidades    |
 |-----------------|-------------------|---------------------|
-| Johnny Xavier   |Product Owner (PO) |                     |
-| Raíssa Oliveira |Scrum Master (SM)  |                     |
-| Nathalya Macêdo |Desenvolvedor (Dev)|                     |
-| Alexandre Santos|Desenvolvedor (Dev)|                     |
-| Juliano Souza   |Desenvolvedor (Dev)|                     |
+| Johnny Xavier   |Product Owner (PO) |O Product Owner (PO) é o responsável por garantir que o time esteja trabalhando nas funcionalidades certas, ou seja, aquelas que trazem mais valor ao negócio e ao cliente. Ele é o representante do cliente e a voz do usuário dentro do time Scrum|
+| Raíssa Oliveira |Scrum Master (SM)  |O Scrum Master (SM) é o facilitador do time Scrum, garantindo que o processo Scrum seja seguido corretamente e que a equipe esteja trabalhando de forma eficiente. Ele também trabalha para remover obstáculos e impedimentos que possam estar atrapalhando o progresso do time|
+| Nathalya Macêdo |Desenvolvedor (Dev)|O Desenvolvedor é o responsável por construir o produto conforme os requisitos definidos pelo Product Owner e pelas prioridades do time|
+| Alexandre Santos|Desenvolvedor (Dev)|O Desenvolvedor é o responsável por construir o produto conforme os requisitos definidos pelo Product Owner e pelas prioridades do time|
+| Juliano Souza   |Desenvolvedor (Dev)|O Desenvolvedor é o responsável por construir o produto conforme os requisitos definidos pelo Product Owner e pelas prioridades do time|
 
 
 ## 3.3 Backlog do Sprint 
@@ -181,16 +163,3 @@ progresso e remover impedimentos.
 que pode ser melhorado.
 - Ferramentas de Comunicação – O grupo pode usar Discord, Slack ou WhatsApp para 
 conversas rápidas.
-
-Exemplo de Comunicação Efetiva: (item obrigatório no trabalho)
-- Toda segunda-feira, a equipe faz o Sprint Planning para definir o que será desenvolvido na 
-semana.
-- Todos os dias, às 9h, há um Daily Stand-up onde cada membro responde: "O que fiz 
-ontem? O que farei hoje? Tenho algum impedimento?".
-- No final da sprint, a equipe realiza uma Sprint Review para demonstrar o que foi entregue 
-e uma Sprint Retrospective para discutir melhorias.
-
-
-
-
-
