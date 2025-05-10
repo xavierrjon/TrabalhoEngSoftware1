@@ -11,4 +11,4 @@ Na etapa de ideação, utilizamos a plataforma Notion para registrar todo o proc
 <p align="center"><img src="images_ideacao/categorias_ideacao.png" style="width:100%"/></p>
 
 ## Link para Notion:
-### [Tabelas de Ideação](https://www.notion.so/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7&pvs=4)
+### [Tabelas de Ideação](https://tidy-verdict-694.notion.site/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7))
