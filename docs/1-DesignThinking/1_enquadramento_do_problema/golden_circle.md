@@ -23,4 +23,4 @@ Promover o consumo seguro de alimentos, evitando desperdício e intoxicações, 
 através de um aplicativo intuitivo que permite cadastrar, monitorar datas de validade, receber alertas antecipados e acessar dicas de armazenamento seguro, tudo de forma simples e acessível.
 
 <h2>O QUÊ?</h2>
-Um aplicativo chamado Prato seguro, que ajuda as pessoas a identificarem alimentos vencidos ou mal armazenados, promovendo segurança alimentar e contribuindo para a redução do desperdício de comida.
+Um aplicativo chamado EcoMida, que ajuda as pessoas a identificarem alimentos vencidos ou mal armazenados, promovendo segurança alimentar e contribuindo para a redução do desperdício de comida.
