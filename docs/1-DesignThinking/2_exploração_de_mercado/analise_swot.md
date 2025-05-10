@@ -30,3 +30,5 @@ No caso do aplicativo *Ecomida*, a análise SWOT foi aplicada com o objetivo de 
 - **Baixa adesão inicial** por falta de divulgação ou engajamento.
 - Atualizações nos sistemas operacionais que possam **quebrar a compatibilidade**.
 - **Desvalorização de aplicativos com foco não comercial**, dificultando financiamento e manutenção.
+
+<p align="center"><img src="images_mercado/analise_swot.jpg" style="width:70%"/></p>
