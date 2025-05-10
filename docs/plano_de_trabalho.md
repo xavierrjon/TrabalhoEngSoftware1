@@ -1,6 +1,6 @@
 # Plano de Trabalho
 
-| Nome do Projeto:       | Prato Seguro                               | 
+| Nome do Projeto:       | EcoMida                               | 
 |------------------------|--------------------------------------------|
 | Versão                 | 1.0                                        | 
 | Status                 | Em andamento                               |
