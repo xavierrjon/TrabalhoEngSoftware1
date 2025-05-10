@@ -21,5 +21,5 @@ Prof. Dr Andrey Antônio de Oliveira Rodrigues
 
 5. Raíssa Martins de Oliveira - 22450064
 
-## Etapas do Projeto
+## Etapas do Projeto:
 - ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/1-DesignThinking)
