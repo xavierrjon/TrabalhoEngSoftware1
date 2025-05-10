@@ -1,24 +1,24 @@
-# Exploração do Mercado – App *Prato Seguro*
+# Exploração do Mercado – App *EcoMida*
 
 ## 1. Investigação do Contexto, Concorrência, Forças e Oportunidades
 
-### *Contexto*
+### Contexto:
 Muitas famílias armazenam alimentos de forma inadequada por falta de conhecimento, o que pode causar intoxicações alimentares ou desperdício. Aplicativos que ajudam a gerenciar validade e armazenamento ainda são pouco utilizados, especialmente em comunidades com menor acesso à informação.
 
-### *Concorrência*
+### Concorrência:
 Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
 - *Yuka* – Analisa rótulos de alimentos e cosméticos.
 - *My Food Shelf* – Ajuda a registrar alimentos, mas não é focado em saúde pública.
 - *NoWaste* – Gerencia alimentos, mas precisa de conexão e não oferece dicas de armazenamento.
 - *Fridge Pal* – Organiza o que há na geladeira, porém com interface desatualizada e sem foco social.
 
-### *Forças*
+### Forças:
 - Funcionalidade offline.
 - Interface simples e acessível.
 - Sistema de backup dos dados (.txt/.csv).
 - Alinhamento com saúde pública e sustentabilidade.
 
-### *Oportunidades*
+### Oportunidades:
 - Crescente preocupação com segurança alimentar.
 - Falta de apps voltados a esse problema específico.
 - Potencial uso em programas públicos e educacionais.
@@ -31,7 +31,7 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
 
 
 -----
-## Soluções Existentes
+## Soluções Existentes:
 
 ### Aplicativos Similares
 
@@ -46,7 +46,7 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
 
 ### Quadro Comparativo
 
-| Critérios/Soluções       | **NoWaste**                | **Fridge Pal**            | **Yuka**                    | **Prato Seguro**                                              |
+| Critérios/Soluções       | **NoWaste**                | **Fridge Pal**            | **Yuka**                    | **EcoMida**                                              |
 |--------------------------|----------------------------|----------------------------|-----------------------------|---------------------------------------------------------------|
 | **Modelo de negócio**    | Freemium                   | Gratuito com anúncios      | Freemium                    | Gratuito com foco social                                      |
 | **Tecnologia utilizada** | App móvel (iOS/Android)    | App móvel (iOS/Android)    | App móvel com scanner       | App móvel com banco local + backup               |
