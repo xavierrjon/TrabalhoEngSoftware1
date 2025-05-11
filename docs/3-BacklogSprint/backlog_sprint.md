@@ -6,4 +6,4 @@ No ***Backlog do Sprint*** foram atribuídas tarefas para cada integrante da equ
 <p align="center"><img src="images_sprint/QuadroSprint.png" style="width:100%"/></p>
 
 ## Link para acessar o quadro detalhado: 
-## - [Backlog do Sprint]()
+## - [Backlog do Sprint](https://github.com/users/xavierrjon/projects/5)
