@@ -8,8 +8,13 @@ Cada integrante da equipe contribiu no processo de criação e especificação. 
 
 <p align="center"><img src="images_backlog/QuadroBacklog.png" style="width:100%"/></p>
 
-## Critérios de Aceitação e Regras de Negócio
+# Critérios de Aceitação e Regras de Negócio
 
+### H4 - Como usuário, quero cadastrar os alimentos com suas datas de validade, para que eu possa acompanhar o que está para vencer.
+<p align="center"><img src="images_backlog/h4.png" style="width:80%"/></p>
+
+### H7 - Como usuário, gostaria de receber dicas de como armazenar diferentes tipos de alimentos para armazenar da melhor forma possível.
+<p align="center"><img src="images_backlog/h7.png" style="width:70%"/></p>
 
 ## Link para acessar a tabela detalhada:
 - [Backlog do Produto](https://github.com/users/xavierrjon/projects/3)
