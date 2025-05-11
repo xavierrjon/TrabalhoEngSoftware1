@@ -10,9 +10,9 @@ Cada integrante da equipe contribiu no processo de criação e especificação. 
 
 # Critérios de Aceitação e Regras de Negócio
 
-**Critérios de aceitação** são condições específicas que uma funcionalidade ou requisito de um sistema deve cumprir para ser considerado concluído e aceito pelo cliente, Product Owner ou equipe de qualidade. Eles são utilizados principalmente em metodologias ágeis (como Scrum) para garantir que todos os envolvidos tenham uma compreensão comum do que significa "pronto" para uma entrega.
+***Critérios de Aceitação*** são condições específicas que uma funcionalidade ou requisito de um sistema deve cumprir para ser considerado concluído e aceito pelo cliente, Product Owner ou equipe de qualidade. Eles são utilizados principalmente em metodologias ágeis (como Scrum) para garantir que todos os envolvidos tenham uma compreensão comum do que significa "pronto" para uma entrega.
 
-**Regras de negócio** são diretrizes ou restrições específicas que definem o funcionamento interno de uma organização, produto ou sistema. Elas orientam como os processos devem ocorrer, o que é permitido ou proibido, e quais condições devem ser respeitadas para manter a consistência, conformidade e objetivos do negócio.
+***Regras de negócio*** são diretrizes ou restrições específicas que definem o funcionamento interno de uma organização, produto ou sistema. Elas orientam como os processos devem ocorrer, o que é permitido ou proibido, e quais condições devem ser respeitadas para manter a consistência, conformidade e objetivos do negócio.
 
 ## Alguns dos nossos Critérios de Aceitação e Regras de Negócio
 
