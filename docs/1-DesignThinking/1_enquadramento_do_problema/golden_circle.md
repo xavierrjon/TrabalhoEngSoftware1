@@ -11,7 +11,7 @@ Os valores e princípios que guiam as ações da empresa. É a forma como a empr
 - **O quê?** – 
 O que a empresa faz, seus produtos e serviços. É o resultado tangível da empresa.</p>
 
-# Golden Circle *EcoMida*
+# Golden Circle - *EcoMida*
 
 Seguindo essa lógica nosso produto desenvolveu seu próprio Golden Circle:
 
