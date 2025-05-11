@@ -9,4 +9,4 @@ Cada integrante da equipe contribiu no processo de criação e especificação. 
 (Quadro)
 
 ## Link para acessar a tabela detalhada:
-- [Backlog do Produto]()
+- [Backlog do Produto](https://github.com/users/xavierrjon/projects/3)
