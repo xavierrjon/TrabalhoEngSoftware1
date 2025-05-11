@@ -14,6 +14,19 @@
 |--------------|-----------|-------------------|-----------------------|
 |1.0           |Elaboração do Plano de Trabalho| Alexandre Santos, Johnny Xavier, Juliano Souza, Nathalya Macedo, Raíssa Oliveira|          10/05/2025             |
 
+## Sumário
+1. [INTRODUÇÃO](#1-introdução)  
+   1.1 [Objeto](#11-objeto)  
+   1.2 [Motivação, Justificativa e Oportunidade](#12-motivação-justificativa-e-oportunidade)  
+   1.3 [Caracterização do Projeto](#13-caracterização-do-projeto)
+      1.3.1 [Classe](#131-classe)
+      1.3.2 [Enquadrabilidade](#132-enquadrabilidade)
+      1.3.3 [Tipo](#133-tipo)
+2. [INFORMAÇÕES GERAIS](#2-informações-gerais)
+   2.1 [Escopo Geral](#21-escopo-geral)  
+   
+3. [METODOLOGIA DE PROJETO](#3-metodologia-de-projeto)
+
 ## 1. INTRODUÇÃO 
 O presente trabalho tem como objetivo o desenvolvimento de um aplicativo móvel voltado para auxiliar pessoas na identificação de alimentos vencidos ou mal armazenados em casa. A proposta busca promover o consumo seguro, prevenir intoxicações alimentares e contribuir para a redução do desperdício de alimentos, especialmente em contextos com pouca educação alimentar.
 
