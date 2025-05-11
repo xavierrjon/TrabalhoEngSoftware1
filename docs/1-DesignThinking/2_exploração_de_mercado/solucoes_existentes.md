@@ -1,7 +1,7 @@
 # Soluções Existentes
 Antes do desenvolvimento do *EcoMida*, já existiam algumas soluções no mercado voltadas à segurança alimentar, controle de validade e combate ao desperdício de alimentos. A maioria desses aplicativos foca no escaneamento de rótulos, controle de estoque doméstico ou em ações de conscientização para consumo responsável. 
 No entanto, grande parte dessas ferramentas apresenta limitações quando se trata de acessibilidade (por exigirem conexão constante com a internet), custo para o usuário ou pouca ênfase no aspecto educacional e social. Além disso, muitas soluções existentes não dialogam diretamente com contextos de vulnerabilidade alimentar ou com regiões que têm acesso restrito à tecnologia. 
-O Prato Seguro surge como uma alternativa gratuita, funcional offline e com forte apelo educativo, buscando preencher essas lacunas e contribuir de forma significativa para a segurança alimentar em comunidades diversas.
+O *EcoMida* surge como uma alternativa gratuita, funcional offline e com forte apelo educativo, buscando preencher essas lacunas e contribuir de forma significativa para a segurança alimentar em comunidades diversas.
 
 ### Concorrência:
 Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
