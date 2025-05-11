@@ -2,7 +2,7 @@
 Trabalho prático da disciplina **Engenharia de Software I**.
 
 ## Proposta do Projeto:
-O EcoMida é um app projetado para ajudar pessoas a identificarem alimentos vencidos ou mal armazenados em casa, promovendo o consumo consciente, prevenindo intoxicações alimentares e incentivando práticas sustentáveis no dia a dia.
+O *EcoMida* é um app projetado para ajudar pessoas a identificarem alimentos vencidos ou mal armazenados em casa, promovendo o consumo consciente, prevenindo intoxicações alimentares e incentivando práticas sustentáveis no dia a dia.
 
 ## Objetivo Geral:
 Elaborar a documentação completa e detalhada de um app que promova a segurança alimentar.
