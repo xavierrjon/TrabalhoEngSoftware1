@@ -148,9 +148,7 @@ a entregar dentro de uma sprint (período de trabalho, geralmente de 1 a 2 seman
 derivado do backlog do produto, que contém todas as funcionalidades desejadas para o sistema.
 
 ## 3.4 Controle de Mudanças 
-O controle de mudanças define como serão tratadas solicitações de alteração no projeto 
-após o início do desenvolvimento. Ele evita mudanças desorganizadas que podem atrasar o 
-cronograma e comprometer a qualidade do software.
+Será adotado um processo estruturado de controle de mudanças para garantir que qualquer solicitação de alteração no escopo, funcionalidades ou requisitos seja analisada de forma criteriosa, evitando impactos negativos no cronograma, na qualidade do produto e na organização do time.
 
 ## 3.5 Gerenciamento de Comunicação 
 O gerenciamento de comunicação define como a equipe interage durante o projeto para 
