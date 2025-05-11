@@ -4,9 +4,9 @@ O ***Backlog do Produto*** representa uma lista priorizada de tudo que é necess
 
 ## Como foi feito?
 
-Cada integrante da equipe contribiu no processo de criação e especificação. Foi criado uma tabela no GitHub para o refinamento das histórias, como mostrado na imagem abaixo:
+Cada integrante da equipe contribiu no processo de criação e especificação. Foi criado uma tabela no GitHub para o refinamento das histórias, como mostra na imagem abaixo:
 
-(Quadro)
+<p align="center"><img src="images_backlog/QuadroBacklog.png" style="width:100%"/></p>
 
 ## Link para acessar a tabela detalhada:
 - [Backlog do Produto](https://github.com/users/xavierrjon/projects/3)
