@@ -24,7 +24,7 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 ## Etapas do Projeto:
 - ### [Plano de Trabalho](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/plano_de_trabalho.md)
 - ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/1-DesignThinking)
-- ### [Backlog do Produto](https://github.com/users/xavierrjon/projects/3)
+- ### [Backlog do Produto](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/2-BacklogProduto)
 - ### [Backlog do Sprint](https://github.com/users/xavierrjon/projects/5)
     
 ## Links para Notion:
