@@ -4,7 +4,7 @@ No entanto, grande parte dessas ferramentas apresenta limitações quando se tra
 O *EcoMida* surge como uma alternativa gratuita, funcional offline e com forte apelo educativo, buscando preencher essas lacunas e contribuir de forma significativa para a segurança alimentar em comunidades diversas.
 
 ## Concorrência
-Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
+Alguns apps disponíveis no mercado que oferecem funcionalidades semelhantes, mas com focos diferentes:
 - *Yuka* – Yuka é um aplicativo que analisa a composição de produtos alimentícios e cosméticos, avaliando seu impacto na saúde. Ele funciona através de um scanner que decifra rótulos e fornece uma avaliação do produto em um sistema de cores (excelente, bom, medíocre, ruim), além de oferecer informações detalhadas e sugestões de alternativas mais saudáveis.
   
 <p align="center"><img src="images_mercado/yuka1.jpeg" style="width:50%"/></p>  
