@@ -3,7 +3,7 @@ Antes do desenvolvimento do *EcoMida*, já existiam algumas soluções no mercad
 No entanto, grande parte dessas ferramentas apresenta limitações quando se trata de acessibilidade (por exigirem conexão constante com a internet), custo para o usuário ou pouca ênfase no aspecto educacional e social. Além disso, muitas soluções existentes não dialogam diretamente com contextos de vulnerabilidade alimentar ou com regiões que têm acesso restrito à tecnologia. 
 O *EcoMida* surge como uma alternativa gratuita, funcional offline e com forte apelo educativo, buscando preencher essas lacunas e contribuir de forma significativa para a segurança alimentar em comunidades diversas.
 
-### Concorrência:
+## Concorrência:
 Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas com focos diferentes:
 - *Yuka* – Yuka é um aplicativo que analisa a composição de produtos alimentícios e cosméticos, avaliando seu impacto na saúde. Ele funciona através de um scanner que decifra rótulos e fornece uma avaliação do produto em um sistema de cores (excelente, bom, medíocre, ruim), além de oferecer informações detalhadas e sugestões de alternativas mais saudáveis.
   
@@ -26,7 +26,7 @@ Alguns apps disponíveis no mercado oferecem funcionalidades semelhantes, mas co
 
 ---
 
-### Quadro Comparativo
+## Quadro Comparativo
 
 | Critérios/Soluções       | **NoWaste**                | **Fridge Pal AI**          | **Yuka**                    | **EcoMida**                                              |
 |--------------------------|----------------------------|----------------------------|-----------------------------|---------------------------------------------------------------|
