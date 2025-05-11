@@ -4,7 +4,7 @@ O ***Backlog do Produto*** representa uma lista priorizada de tudo que é necess
 
 ## Processo
 
-Cada integrante da equipe contribiu na criação de histórias e na sua especificação. Foi criado uma tabela no GitHub para o refinamento das ideias, como mostrado na imagem abaixo:
+Cada integrante da equipe contribiu no processo de criação e especificação. Foi criado uma tabela no GitHub para o refinamento das histórias, como mostrado na imagem abaixo:
 
 (Quadro)
 
