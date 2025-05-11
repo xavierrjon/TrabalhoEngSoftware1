@@ -1,4 +1,4 @@
-## Análise SWOT
+# Análise SWOT
 
 A Análise SWOT é uma metodologia amplamente utilizada no planejamento estratégico para identificar fatores que impactam o sucesso de um projeto, tanto interna quanto externamente. O termo deriva das iniciais em inglês: *Strengths (Forças), **Weaknesses (Fraquezas), **Opportunities (Oportunidades)* e *Threats (Ameaças)*. 
 
