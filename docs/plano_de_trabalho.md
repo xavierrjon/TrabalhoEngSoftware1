@@ -15,17 +15,30 @@
 |1.0           |Elaboração do Plano de Trabalho| Alexandre Santos, Johnny Xavier, Juliano Souza, Nathalya Macedo, Raíssa Oliveira|          10/05/2025             |
 
 ## Sumário
-1. [INTRODUÇÃO](#1-introdução)  
-   1.1 [Objeto](#11-objeto)  
-   1.2 [Motivação, Justificativa e Oportunidade](#12-motivação-justificativa-e-oportunidade)  
-   1.3 [Caracterização do Projeto](#13-caracterização-do-projeto)
-      1.3.1 [Classe](#131-classe)
-      1.3.2 [Enquadrabilidade](#132-enquadrabilidade)
-      1.3.3 [Tipo](#133-tipo)
-2. [INFORMAÇÕES GERAIS](#2-informações-gerais)
-   2.1 [Escopo Geral](#21-escopo-geral)  
-   
-3. [METODOLOGIA DE PROJETO](#3-metodologia-de-projeto)
+
+- [INTRODUÇÃO](#introdução)
+  - [1.1 Objeto](#11-objeto)
+  - [1.2 Motivação, Justificativa e Oportunidade](#12-motivação-justificativa-e-oportunidade)
+  - [1.3 Caracterização do Projeto](#13-caracterização-do-projeto)
+    - [1.3.1 Classe](#131-classe)
+    - [1.3.2 Enquadrabilidade](#132-enquadrabilidade)
+    - [1.3.3 Tipo](#133-tipo)
+
+- [INFORMAÇÕES GERAIS](#informações-gerais)
+  - [2.1 Escopo Geral](#21-escopo-geral)
+    - [2.1.1 Escopo Específico](#211-escopo-específico)
+    - [2.1.2 Escopo Negativo](#212-escopo-negativo)
+  - [2.2 Ambiente de Desenvolvimento](#22-ambiente-de-desenvolvimento)
+  - [2.3 Características Inovadoras do Projeto](#23-características-inovadoras-do-projeto)
+  - [2.4 Resultados Esperados](#24-resultados-esperados)
+
+- [METODOLOGIA DE PROJETO](#metodologia-de-projeto)
+  - [3.1 Estrutura do Projeto](#31-estrutura-do-projeto)
+  - [3.2 Equipe de Projeto: Papéis e Responsabilidades](#32-equipe-de-projeto-papéis-e-responsabilidades)
+  - [3.3 Backlog do Sprint](#33-backlog-do-sprint)
+  - [3.4 Controle de Mudanças](#34-controle-de-mudanças)
+  - [3.5 Gerenciamento de Comunicação](#35-gerenciamento-de-comunicação)
+
 
 ## 1. INTRODUÇÃO 
 O presente trabalho tem como objetivo o desenvolvimento de um aplicativo móvel voltado para auxiliar pessoas na identificação de alimentos vencidos ou mal armazenados em casa. A proposta busca promover o consumo seguro, prevenir intoxicações alimentares e contribuir para a redução do desperdício de alimentos, especialmente em contextos com pouca educação alimentar.
