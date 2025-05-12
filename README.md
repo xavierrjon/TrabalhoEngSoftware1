@@ -26,6 +26,7 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 - ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/1-DesignThinking)
 - ### [Backlog do Produto](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/2-BacklogProduto/backlog_produto.md)
 - ### [Backlog do Sprint](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/3-BacklogSprint/backlog_sprint.md)
+- ### [DailyScrum]()
     
 ## Links para Notion:
 - ### [Tabelas de Ideação](https://tidy-verdict-694.notion.site/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7)
