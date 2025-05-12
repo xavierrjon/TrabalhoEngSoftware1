@@ -29,5 +29,5 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 - ### [DailyScrum](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/4-DailyScrum/daily_scrum.md)
     
 ## Links para Notion:
-- ### [Tabelas de Ideação](https://tidy-verdict-694.notion.site/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7)
-- ### [Tabelas Daily Scrum](https://tidy-verdict-694.notion.site/1ee8d94c729481ef9908c0d5ef123786?v=1ee8d94c72948119b0e3000c37a45af3)
+- ### [Tabela de Ideação](https://tidy-verdict-694.notion.site/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7)
+- ### [Tabela DailyScrum](https://tidy-verdict-694.notion.site/1ee8d94c729481ef9908c0d5ef123786?v=1ee8d94c72948119b0e3000c37a45af3)
