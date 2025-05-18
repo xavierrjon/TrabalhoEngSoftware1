@@ -43,7 +43,7 @@ Alguns apps disponíveis no mercado que oferecem funcionalidades semelhantes, ma
 - *Yuka* – Yuka é um aplicativo que analisa a composição de produtos alimentícios e cosméticos, avaliando seu impacto na saúde. Ele funciona através de um scanner que decifra rótulos e fornece uma avaliação do produto em um sistema de cores (excelente, bom, medíocre, ruim), além de oferecer informações detalhadas e sugestões de alternativas mais saudáveis.
   
 <p align="center"><img src="docs/Imagens/DesignThinking/yuka1.jpeg" style="width:50%"/></p>  
-<p align="center"><img src="Imagens/DesignThinking/yuka2.jpeg" style="width:70%"/></p>
+<p align="center"><img src="docs/Imagens/DesignThinking/yuka2.jpeg" style="width:70%"/></p>
 
 
   
