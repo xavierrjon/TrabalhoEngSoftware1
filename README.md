@@ -30,4 +30,4 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
     
 ## Links para Notion:
 - ### [Tabela de Ideação](https://tidy-verdict-694.notion.site/1ee8d94c729480c597f6f366f9cce1a6?v=1ee8d94c729480c098db000c81ce85c7)
-- ### [Tabela Daily Scrum](https://tidy-verdict-694.notion.site/1ee8d94c729481ef9908c0d5ef123786?v=1ee8d94c72948119b0e3000c37a45af3)
+- ### [Tabela Daily Scrum](https://tidy-verdict-694.notion.site/Daily-Scrum-EcoMida-1fc8d94c729480babb1dfee3b0a79fb6?pvs=4)
