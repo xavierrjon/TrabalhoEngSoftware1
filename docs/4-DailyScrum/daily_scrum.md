@@ -12,4 +12,4 @@ Como mostra a imagem abaixo:
 <p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/DailyScrum/DailyScrumAtt.png" style="width:100%"/></p>
 
 ## Link para acessar a tabela detalhada no Notion:
-## - [Daily Scrum](https://tidy-verdict-694.notion.site/1ee8d94c729481ef9908c0d5ef123786?v=1ee8d94c72948119b0e3000c37a45af3)
+## - [Daily Scrum](https://tidy-verdict-694.notion.site/Daily-Scrum-EcoMida-1fc8d94c729480babb1dfee3b0a79fb6?pvs=4)
