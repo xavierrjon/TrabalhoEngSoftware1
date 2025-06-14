@@ -41,5 +41,7 @@ Flutter:<p>
 - DB: SQFlite, Drift<p>
 - DI: GetIt, Provider<p>
 - Eventos: StreamController, event_bus<p>
+<h2>Exemplo visual</h2>
+<img src="https://raw.githubusercontent.com/xavierrjon/TrabalhoEngSoftware1/main/docs/Imagens/ArquiteturaSoftware/arquitetura.jpg" width="400" />
 <h2>Conclusão</h2>
-A arquitetura proposta para o EcoMida é bem estruturada, moderna e robusta, adequada para aplicativos com lógica de negócio relevante e necessidade de manutenção a longo prazo. O uso combinado de Clean Architecture, MVVM e Pub/Sub traz organização, escalabilidade e flexibilidade, embora exija disciplina na implementação.
+A arquitetura proposta para o EcoMida é bem estruturada, moderna e robusta, adequada para aplicativos com lógica de negócio relevante e necessidade de manutenção a longo prazo. O uso combinado de Clean Architecture, MVVM e Pub/Sub traz organização, escalabilidade e flexibilidade, embora exija disciplina na implementação.<p>
