@@ -1,14 +1,14 @@
-# 🗺 Mapa de Tecnologias - EcoMida
+# Mapa de Tecnologias - *EcoMida*
 
-## 📌 Introdução
+## Introdução
 
-Este documento apresenta o *Mapa de Tecnologias (Tech Stack)* do aplicativo *EcoMida*, detalhando as principais ferramentas, linguagens e bibliotecas utilizadas no desenvolvimento do sistema.
+Aqui mostramos o *Mapa de Tecnologias (Tech Stack)* do aplicativo *EcoMida*, detalhando as principais ferramentas, linguagens e bibliotecas utilizadas no desenvolvimento do sistema.
 
-O EcoMida foi pensado para funcionar tanto online quanto offline, oferecendo aos usuários uma experiência fluida, segura e eficiente. A escolha das tecnologias prioriza usabilidade, desempenho, armazenamento local, notificações eficientes e monitoramento dos erros quando conectado à internet.
+O *EcoMida* foi pensado para funcionar tanto online quanto offline, oferecendo aos usuários uma experiência fluida, segura e eficiente. A escolha das tecnologias prioriza usabilidade, desempenho, armazenamento local, notificações eficientes e monitoramento dos erros quando conectado à internet.
 
 ---
 
-## 🔹 Mapa de Tecnologias
+## Mapa de Tecnologias
 
 ![image](https://github.com/user-attachments/assets/2fdf4395-ea48-4545-a42c-07c402315cee)
 
@@ -24,15 +24,15 @@ O EcoMida foi pensado para funcionar tanto online quanto offline, oferecendo aos
 
 ---
 
-## 🔸 Tabela de Tecnologias e Justificativa
+## Tabela de Tecnologias e Justificativa
 
 A tabela abaixo foi elaborada com o objetivo de documentar de forma clara e organizada todas as tecnologias, ferramentas e arquiteturas utilizadas no desenvolvimento do projeto **EcoMida**.
 
 Esta estrutura tem como propósito:
 
-- ✅ Facilitar a visualização rápida da stack tecnológica do projeto;
-- 🧩 Ajudar novos desenvolvedores a entenderem o ecossistema da aplicação;
-- 💡 Justificar as escolhas técnicas, destacando o papel de cada tecnologia dentro do sistema.
+- Facilitar a visualização rápida da stack tecnológica do projeto;
+- Ajudar novos desenvolvedores a entenderem o ecossistema da aplicação;
+- Justificar as escolhas técnicas, destacando o papel de cada tecnologia dentro do sistema.
 
 Cada item listado está categorizado de acordo com sua função no sistema (como *Frontend*, *Backend*, *Banco de Dados*, entre outros), acompanhado de uma breve descrição sobre seu uso no contexto da aplicação.
 
