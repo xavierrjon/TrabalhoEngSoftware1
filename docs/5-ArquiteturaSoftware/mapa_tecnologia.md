@@ -24,7 +24,17 @@ O EcoMida foi pensado para funcionar tanto online quanto offline, oferecendo aos
 
 ---
 
-## 🔸 Tabela de Tecnologias e Justificativas
+## 🔸 Tabela de Tecnologias e Justificativa
+
+A tabela abaixo foi elaborada com o objetivo de documentar de forma clara e organizada todas as tecnologias, ferramentas e arquiteturas utilizadas no desenvolvimento do projeto **EcoMida**.
+
+Esta estrutura tem como propósito:
+
+- ✅ Facilitar a visualização rápida da stack tecnológica do projeto;
+- 🧩 Ajudar novos desenvolvedores a entenderem o ecossistema da aplicação;
+- 💡 Justificar as escolhas técnicas, destacando o papel de cada tecnologia dentro do sistema.
+
+Cada item listado está categorizado de acordo com sua função no sistema (como *Frontend*, *Backend*, *Banco de Dados*, entre outros), acompanhado de uma breve descrição sobre seu uso no contexto da aplicação.
 
 
 
