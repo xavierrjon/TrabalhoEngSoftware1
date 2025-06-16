@@ -46,6 +46,6 @@ Cada item listado está categorizado de acordo com sua função no sistema (como
 | *Autenticação* | Firebase Auth + armazenamento local     | Login com cache local para manter sessão offline                                              |
 | *Notificações* | Flutter Local Notifications             | Permite notificações sem internet (baseadas no tempo e dados do dispositivo)                  |
 | *Deploy*       | Google Play / App Store                 | Distribuição oficial                                                                           |
-| *Monitoramento| Firebase Crashlytics *(quando online)  | Coleta erros ao reconectar, garantindo acompanhamento da saúde do app                         |
+| *Monitoramento*| Firebase Crashlytics *(quando online)  | Coleta erros ao reconectar, garantindo acompanhamento da saúde do app                         |
 
 ---
