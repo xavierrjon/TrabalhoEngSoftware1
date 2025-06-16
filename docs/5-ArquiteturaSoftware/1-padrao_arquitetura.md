@@ -1,4 +1,4 @@
-# Arquitetura do Aplicativo *EcoMida*
+# Padrões Arquiteturais
 ## Visão Geral do EcoMida
 
 O EcoMida é um aplicativo voltado para promover o consumo consciente de alimentos. Suas principais funcionalidades são:
@@ -14,7 +14,7 @@ A arquitetura ideal para o *EcoMida* combina:
 * MVVM (Model-View-ViewModel): para estruturar a camada de apresentação;
 * Pub/Sub (Publish-Subscribe): para eventos internos desacoplados, como agendamento de notificações.
 
-<h2>Exemplo visual</h2>
+## Exemplo Visual
 <img src="https://raw.githubusercontent.com/xavierrjon/TrabalhoEngSoftware1/main/docs/Imagens/ArquiteturaSoftware/arquitetura.jpg" width="400" />
 
 ## Conclusão
