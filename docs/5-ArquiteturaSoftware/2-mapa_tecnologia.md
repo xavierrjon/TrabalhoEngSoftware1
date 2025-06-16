@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Aqui mostramos o *Mapa de Tecnologias (Tech Stack)* do aplicativo *EcoMida*, detalhando as principais ferramentas, linguagens e bibliotecas utilizadas no desenvolvimento do sistema.
+Aqui mostramos o Mapa de Tecnologias (Tech Stack) do aplicativo *EcoMida*, detalhando as principais ferramentas, linguagens e bibliotecas utilizadas no desenvolvimento do sistema.
 
 O *EcoMida* foi pensado para funcionar tanto online quanto offline, oferecendo aos usuários uma experiência fluida, segura e eficiente. A escolha das tecnologias prioriza usabilidade, desempenho, armazenamento local, notificações eficientes e monitoramento dos erros quando conectado à internet.
 
@@ -46,6 +46,6 @@ Cada item listado está categorizado de acordo com sua função no sistema (como
 | *Autenticação* | Firebase Auth + armazenamento local     | Login com cache local para manter sessão offline                                              |
 | *Notificações* | Flutter Local Notifications             | Permite notificações sem internet (baseadas no tempo e dados do dispositivo)                  |
 | *Deploy*       | Google Play / App Store                 | Distribuição oficial                                                                           |
-| *Monitoramento*| Firebase Crashlytics *(quando online)  | Coleta erros ao reconectar, garantindo acompanhamento da saúde do app                         |
+| *Monitoramento*| Firebase Crashlytics (quando online)  | Coleta erros ao reconectar, garantindo acompanhamento da saúde do app                         |
 
 ---
