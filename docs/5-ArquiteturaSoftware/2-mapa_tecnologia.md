@@ -10,7 +10,7 @@ O *EcoMida* foi pensado para funcionar tanto online quanto offline, oferecendo a
 
 ## Mapa de Tecnologias
 
-![image](https://github.com/user-attachments/assets/2fdf4395-ea48-4545-a42c-07c402315cee)
+![image](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/techstackmap.png)
 
 
 > O mapa acima resume as principais tecnologias utilizadas no desenvolvimento do EcoMida, organizadas nas seguintes categorias:
