@@ -9,3 +9,5 @@ Representa como o sistema funciona como um conjunto de aplicações interligadas
 * Tecnologias utilizadas;
 * Protocolos de comunicação;
 * Usuários ou sistemas externos que interagem com eles.
+
+<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Containers.jpg" style="width:100%"/></p>
