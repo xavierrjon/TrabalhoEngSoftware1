@@ -7,3 +7,5 @@ Visa apresentar:
 * Quais são os principais componentes de um container, como esses componentes se relacionam entre si;
 * Tecnologias utilizadas;
 * Interações com componentes externos, como banco de dados, APIs externas ou serviços.
+
+<p align="center"><img src="" style="width:100%"/></p>
