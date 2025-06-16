@@ -1,6 +1,6 @@
 # Diagrama de Containers 
 
-O Diagrama de Containers é uma das visualizações propostas pelo método C4 Model para representar arquiteturas de software de forma clara e estruturada.
+O Diagrama de Containers é o nível 2 do Modelo C4, e mostra como o sistema é dividido em containers para representar arquiteturas de software de forma clara e estruturada.
 
 Representa como o sistema funciona como um conjunto de aplicações interligadas, detalhando:
 
