@@ -25,5 +25,6 @@ das informações.
 > R4. Alimentos com data de vencimento próxima (ex: até 3 dias) devem ser destacados para o usuário.
 <p align="left"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/RevisaoRequisitos/ExemploReavaliada.png" style="width:70%"/></p>
 
-- [Acessar todas as issues](https://github.com/xavierrjon/TrabalhoEngSoftware1/issues?q=is%3Aissue%20state%3Aclosed)
+## Link para acessar as Issues
+- [Issues completas](https://github.com/xavierrjon/TrabalhoEngSoftware1/issues?q=is%3Aissue%20state%3Aclosed)
 
