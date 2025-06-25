@@ -21,7 +21,7 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 
 5. Raíssa Martins de Oliveira - 22450064
 
-## Etapas do Projeto:
+## Tópicos do Projeto:
 - ### [Plano de Trabalho](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/plano_de_trabalho.md)
 - ### [Design Thinking](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/1-DesignThinking)
 - ### [Backlog do Produto](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/2-BacklogProduto/backlog_produto.md)
