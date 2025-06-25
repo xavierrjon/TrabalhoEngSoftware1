@@ -416,7 +416,7 @@ Classe Inválida:
 | Caso 6        | 1, 3, 5, 7, 10, 11      | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 0<br>Status: Ativo        | Inválido           |
 | Caso 7        | 1, 3, 5, 7, 9, 12       | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 3<br>Status: Expirado     | Inválido           |
 
-Classe Vàlida: 1, 3, 5
+Classe Vàlida: 1, 3, 5, 7, 9, 11
 
 Classe Inválida:
 - 1, 3, 5, 7, 9, 11
