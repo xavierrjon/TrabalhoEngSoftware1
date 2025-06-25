@@ -72,15 +72,15 @@ das informações.
 
 | Caso de Teste | Classes de Equivalência | Entradas                                       | Resultado Esperado |
 | ------------- | ----------------------- | ---------------------------------------------- | ------------------ |
-| Caso 1        | 1, 2                    | Texto: Beba água<br>Fonte: Ministério da Saúde | Válido             |
-| Caso 2        | 3, 2                    | Texto com 301 caracteres<br>Fonte: Fiocruz     | Inválido           |
+| Caso 1        | 1, 3                    | Texto: Beba água<br>Fonte: Ministério da Saúde | Válido             |
+| Caso 2        | 2, 3                    | Texto com 301 caracteres<br>Fonte: Fiocruz     | Inválido           |
 | Caso 3        | 1, 4                    | Texto: Coma frutas<br>Fonte: ""                | Inválido           |
 
-Classe Vàlida: 1, 2
+Classe Vàlida: 1, 3
 
 Classe Inválida:
-- 3, 2
-- 1, 4
+- 2, 3
+- 1, 4 
 
 ---
 
@@ -114,17 +114,17 @@ normas de acessibilidade e experiência do usuário.
 
 | Caso de Teste | Classes de Equivalência | Entradas                                                       | Resultado Esperado |
 | ------------- | ----------------------- | -------------------------------------------------------------- | ------------------ |
-| Caso 1        | 1, 2, 3                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Presente      | Válido             |
-| Caso 2        | 4, 2, 3                 | Volume: Desativado<br>Voz: Personalizável<br>Legenda: Presente | Inválido           |
-| Caso 3        | 1, 5, 3                 | Volume: Ativo<br>Voz: Fixa<br>Legenda: Presente                | Inválido           |
-| Caso 4        | 1, 2, 6                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Ausente       | Inválido           |
+| Caso 1        | 1, 3, 5                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Presente      | Válido             |
+| Caso 2        | 2, 3, 5                 | Volume: Desativado<br>Voz: Personalizável<br>Legenda: Presente | Inválido           |
+| Caso 3        | 1, 4, 6                 | Volume: Ativo<br>Voz: Fixa<br>Legenda: Presente                | Inválido           |
+| Caso 4        | 1, 3, 6                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Ausente       | Inválido           |
 
-Classe Vàlida: 1, 2, 3
+Classe Vàlida: 1, 3, 5
 
 Classe Inválida:
-- 4, 2, 3
-- 1, 5, 3
-- 1, 2, 6
+- 2, 3, 5
+- 1, 4, 6
+- 1, 3, 6
 
 ---
 
@@ -163,19 +163,19 @@ controle de qualidade.
 
 | Caso de Teste | Classes de Equivalência | Entradas                                                                                              | Resultado Esperado |
 | ------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------ |
-| Caso 1        | 1, 2, 3, 4              | Categoria: Acessibilidade<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                           | Válido             |
-| Caso 2        | 5, 2, 3, 4              | Categoria: ""<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                                       | Inválido           |
-| Caso 3        | 1, 6, 3, 4              | Categoria: Backup<br>Feedback: Talvez<br>ID: Anônimo<br>Botão: Visível                                | Inválido           |
-| Caso 4        | 1, 2, 7, 4              | Categoria: Cadastro<br>Feedback: Sim<br>ID: [joao@email.com](mailto:joao@email.com)<br>Botão: Visível | Inválido           |
+| Caso 1        | 1, 3, 5, 7              | Categoria: Acessibilidade<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                           | Válido             |
+| Caso 2        | 5, 3, 5, 7              | Categoria: ""<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                                       | Inválido           |
+| Caso 3        | 1, 4, 5, 7              | Categoria: Backup<br>Feedback: Talvez<br>ID: Anônimo<br>Botão: Visível                                | Inválido           |
+| Caso 4        | 1, 3, 6, 7              | Categoria: Cadastro<br>Feedback: Sim<br>ID: [joao@email.com](mailto:joao@email.com)<br>Botão: Visível | Inválido           |
 | Caso 5        | 1, 2, 3, 8              | Categoria: Cadastro<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Ausente                                 | Inválido           |
 
-Classe Vàlida: 1, 2, 3, 4
+Classe Vàlida: 1, 3, 5, 7
 
 Classe Inválida:
-- 5, 2, 3, 4
-- 1, 6, 3, 4
-- 1, 2, 7, 4
-- 1, 2, 3, 8
+- 2, 3, 5, 7
+- 1, 4, 5, 7
+- 1, 3, 6, 7
+- 1, 3, 5, 8
 
 ---
 
