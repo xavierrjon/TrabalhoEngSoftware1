@@ -16,6 +16,23 @@ Os casos de teste foram definidos com base na técnica de partição em classes 
 
 ---
 
+### Classes de equivalência
+### Casos de Teste
+
+| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
+|----------------|-------------------------|-----------------------|--------------------|
+| Caso 1         | 1, 3, 5                 | Nome: Arroz Tipo: Grão| Válido             |
+| Caso 2         | 2, 3, 5                 | Nome: 12345 Tipo: Grão| Inválido           |
+| Caso 3         | 1, 4, 5                 | Nome: Feijão Tipo: "" | Inválido           |
+| Caso 4         | 1, 3, 6                 | Nome: Carne Tipo: Proteína| Inválido       |
+-----------------------------------------------------------------------------------------
+Classe Vàlida: 1, 3, 5
+
+Classe Inválida:
+- 2, 3, 5
+- 1, 4, 6
+- 1, 3, 6 
+
 ###  H7 - Cadastro de dica
 
 | Condição de Entrada     | Classes Válidas                          | Classes Inválidas                          |
@@ -24,6 +41,21 @@ Os casos de teste foram definidos com base na técnica de partição em classes 
 | Fonte da dica          | Fonte confiável e registrada (3)            | Fonte ausente ou não verificada (4)          |
 
 ---
+
+### Classes de equivalência
+### Casos de Teste
+
+| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
+|----------------|-------------------------|-----------------------|--------------------|
+| Caso 1         | 1, 2                 | texto: "Coma a carne"| Válido             |
+| Caso 2         | 3, 2                 | Texto com 301 caracteres| Inválido           |
+| Caso 3         | 1, 4                 | Texto:  Coma frutas | Inválido           |
+-----------------------------------------------------------------------------------------
+Classe Vàlida: 1, 3
+
+Classe Inválida:
+- 3, 2
+- 1, 4
 
 ###  H8 - Acessibilidade sonora
 
@@ -34,6 +66,21 @@ Os casos de teste foram definidos com base na técnica de partição em classes 
 | Legenda alternativa    | Presente e sincronizada (5)               | Ausente ou não funcional (6)                  |
 
 ---
+
+### Classes de equivalência
+### Casos de Teste
+
+| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
+|----------------|-------------------------|-----------------------|--------------------|
+| Caso 1         | 1, 2, 3                 | Volume: Ativo/Personalizável com legenda | Válido             |
+| Caso 2         | 4, 2, 3                 | Volume: Desativado/Personalizável com legenda | Inválido           |
+| Caso 3         | 1, 5, 3                 | Volume: Ativo/Fixo com legenda | Inválido           |
+| Caso 4         | 1, 2, 6                 | | Inválido       |
+-----------------------------------------------------------------------------------------
+Classe Vàlida: 1, 3, 5
+
+Classe Inválida:
+- 
 
 ### H9 - FAQ e feedback
 
