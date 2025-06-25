@@ -28,7 +28,7 @@ Prof. Dr. Andrey Antonio de Oliveira Rodrigues
 - ### [Backlog do Sprint](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/3-BacklogSprint/backlog_sprint.md)
 - ### [Arquitetura do Software](https://github.com/xavierrjon/TrabalhoEngSoftware1/tree/main/docs/5-ArquiteturaSoftware)
 - ### [Revisão dos Requisitos (Issues)](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/6-RevisaoRequisitos/issues.md)
-- ### [Casos de Teste]()
+- ### [Casos de Teste](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/7-CasosTeste/casos_teste.md)
 - ### [Daily Scrum](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/4-DailyScrum/daily_scrum.md)
     
 ## Links para Notion:
