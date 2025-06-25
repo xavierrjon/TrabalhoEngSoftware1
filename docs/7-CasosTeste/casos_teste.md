@@ -35,7 +35,7 @@ Os casos de teste foram definidos com base na técnica de partição em classes 
 | Caso 3        | 1, 4, 5                 | Nome: Feijão<br>Tipo: ""<br>Validade: 2025-01-01      | Inválido           |
 | Caso 4        | 1, 3, 6                 | Nome: Carne<br>Tipo: Proteína<br>Validade: 2020-01-01 | Inválido           |
 
-Classe Vàlida: 1, 3, 5
+Classe Válida: 1, 3, 5
 
 Classe Inválida:
 - 2, 3, 5
@@ -76,7 +76,7 @@ das informações.
 | Caso 2        | 2, 3                    | Texto com 301 caracteres<br>Fonte: Fiocruz     | Inválido           |
 | Caso 3        | 1, 4                    | Texto: Coma frutas<br>Fonte: ""                | Inválido           |
 
-Classe Vàlida: 1, 3
+Classe Válida: 1, 3
 
 Classe Inválida:
 - 2, 3
@@ -119,7 +119,7 @@ normas de acessibilidade e experiência do usuário.
 | Caso 3        | 1, 4, 6                 | Volume: Ativo<br>Voz: Fixa<br>Legenda: Presente                | Inválido           |
 | Caso 4        | 1, 3, 6                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Ausente       | Inválido           |
 
-Classe Vàlida: 1, 3, 5
+Classe Válida: 1, 3, 5
 
 Classe Inválida:
 - 2, 3, 5
@@ -169,7 +169,7 @@ controle de qualidade.
 | Caso 4        | 1, 3, 6, 7              | Categoria: Cadastro<br>Feedback: Sim<br>ID: [joao@email.com](mailto:joao@email.com)<br>Botão: Visível | Inválido           |
 | Caso 5        | 1, 2, 3, 8              | Categoria: Cadastro<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Ausente                                 | Inválido           |
 
-Classe Vàlida: 1, 3, 5, 7
+Classe Válida: 1, 3, 5, 7
 
 Classe Inválida:
 - 2, 3, 5, 7
@@ -211,7 +211,7 @@ Classe Inválida:
 | Caso 2        | 2, 3                    | Dias: -1<br>Status: Ativo   | Inválido           |
 | Caso 3        | 1, 4                    | Dias: 15<br>Status: Vencido | Inválido           |
 
-Classe Vàlida: 1, 3
+Classe Válida: 1, 3
 
 Classe Inválida:
 - 2, 3
@@ -253,7 +253,7 @@ Classe Inválida:
 | Caso 2        | 2, 3                    | Gravidade: Muito crítico<br>Criptografia: AES-256 | Inválido           |
 | Caso 3        | 1, 4                    | Gravidade: Médio<br>Criptografia: Base64          | Inválido           |
 
-Classe Vàlida: 1, 3
+Classe Válida: 1, 3
 
 Classe Inválida:
 - 2, 3
@@ -294,7 +294,7 @@ explícita do usuário.
 | Caso 4        | 1, 3, 6, 7              | Filtro: Próximos<br>Ordenação: Local<br>Botão: Ausente<br>Confirmação: Confirmar | Inválido           |
 | Caso 5        | 1, 3, 5, 8              | Filtro: Todos<br>Ordenação: Manual<br>Botão: Visível<br>Confirmação: Cancelar    | Inválido           |
 
-Classe Vàlida: 1, 3, 5, 7
+Classe Válida: 1, 3, 5, 7
 
 Classe Inválida:
 - 2, 3, 5, 7
@@ -332,7 +332,7 @@ Classe Inválida:
 | Caso 2        | 2, 3                    | Texto: contém link malicioso<br>Quantidade: 1 | Inválido           |
 | Caso 3        | 1, 4                    | Texto: verificado<br>Quantidade: 2            | Inválido           |
 
-Classe Vàlida: 1, 3
+Classe Válida: 1, 3
 
 Classe Inválida:
 - 2, 3
@@ -370,7 +370,7 @@ Classe Inválida:
 | Caso 3        | 1, 4, 5                 | Nome: Arroz<br>Validade: 2020-01-01<br>Duplicidade: Não existe               | Inválido           |
 | Caso 4        | 1, 3, 6                 | Nome: Arroz<br>Validade: 2026-01-01<br>Duplicidade: Já existe                | Inválido           |
 
-Classe Vàlida: 1, 3, 5
+Classe Válida: 1, 3, 5
 
 Classe Inválida:
 - 2, 3, 5
@@ -404,7 +404,7 @@ Classe Inválida:
 | Quantidade de alimento     | Abaixo do limite (1–10) (9)                         | Negativa, 0 ou acima do limite sem configuração (10)        |
 | Status do alimento         | Ativo (11)                                         | Inativo, expirado ou em recall(12)                         |
 
-###Casos de Teste
+#### Casos de Teste
 
 | Caso de Teste | Classes de Equivalência | Entradas                                                                                                             | Resultado Esperado |
 | ------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -416,7 +416,7 @@ Classe Inválida:
 | Caso 6        | 1, 3, 5, 7, 10, 11      | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 0<br>Status: Ativo        | Inválido           |
 | Caso 7        | 1, 3, 5, 7, 9, 12       | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 3<br>Status: Expirado     | Inválido           |
 
-Classe Vàlida: 1, 3, 5, 7, 9, 11
+Classe Válida: 1, 3, 5, 7, 9, 11
 
 Classe Inválida:
 - 1, 3, 5, 7, 9, 11
@@ -451,7 +451,7 @@ Classe Inválida:
 | Quantidade de alimento     | Abaixo do limite (1–10) (1)          | Negativa, 0 ou acima do limite sem configuração(2) |
 | Status do alimento         | Ativo(3)                            | Inativo, expirado ou em recall(4)                  |
 
-###Casos de teste
+### Casos de teste
 
 | Caso de Teste | Classes de Equivalência | Entradas                           | Resultado Esperado |
 | ------------- | ----------------------- | ---------------------------------- | ------------------ |
@@ -463,7 +463,7 @@ Classe Inválida:
 | Caso 6        | 1, 4                    | Quantidade: 6<br>Status: Expirado  | Inválido           |
 | Caso 7        | 1, 4                    | Quantidade: 7<br>Status: Em Recall | Inválido           |
 
-Classe Vàlida: 1, 3
+Classe Válida: 1, 3
 
 Classe Inválida:
 - 2, 3
