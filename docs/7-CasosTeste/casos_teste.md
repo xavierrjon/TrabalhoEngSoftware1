@@ -28,20 +28,22 @@ Os casos de teste foram definidos com base na técnica de partição em classes 
 
 ### Casos de Teste
 
-| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
-|----------------|-------------------------|-----------------------|--------------------|
-| Caso 1         | 1, 3, 5                 | Nome: Arroz Tipo: Grão| Válido             |
-| Caso 2         | 2, 3, 5                 | Nome: 12345 Tipo: Grão| Inválido           |
-| Caso 3         | 1, 4, 5                 | Nome: Feijão Tipo: "" | Inválido           |
-| Caso 4         | 1, 3, 6                 | Nome: Carne Tipo: Proteína| Inválido       |
+| Caso de Teste | Classes de Equivalência | Entradas                                              | Resultado Esperado |
+| ------------- | ----------------------- | ----------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3, 5                 | Nome: Arroz<br>Tipo: Grão<br>Validade: 2025-01-01     | Válido             |
+| Caso 2        | 2, 3, 5                 | Nome: 12345<br>Tipo: Grão<br>Validade: 2025-01-01     | Inválido           |
+| Caso 3        | 1, 4, 5                 | Nome: Feijão<br>Tipo: ""<br>Validade: 2025-01-01      | Inválido           |
+| Caso 4        | 1, 3, 6                 | Nome: Carne<br>Tipo: Proteína<br>Validade: 2020-01-01 | Inválido           |
 
-Classe Válida: 1, 3, 5
+Classe Vàlida: 1, 3, 5
 
 Classe Inválida:
 - 2, 3, 5
 - 1, 4, 6
-- 1, 3, 6 
---- 
+- 1, 3, 6
+
+---
+
 ###  H7 - Como usuário, gostaria de receber dicas de como armazenar diferentes tipos de alimentos para armazenar da melhor forma possível.
 
 #### Critérios de Aceitação
@@ -68,18 +70,20 @@ das informações.
 
 ### Casos de Teste
 
-| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
-|----------------|-------------------------|-----------------------|--------------------|
-| Caso 1         | 1, 2                 | texto: "Coma a carne"| Válido             |
-| Caso 2         | 3, 2                 | Texto com 301 caracteres| Inválido           |
-| Caso 3         | 1, 4                 | Texto:  Coma frutas | Inválido           |
+| Caso de Teste | Classes de Equivalência | Entradas                                       | Resultado Esperado |
+| ------------- | ----------------------- | ---------------------------------------------- | ------------------ |
+| Caso 1        | 1, 2                    | Texto: Beba água<br>Fonte: Ministério da Saúde | Válido             |
+| Caso 2        | 3, 2                    | Texto com 301 caracteres<br>Fonte: Fiocruz     | Inválido           |
+| Caso 3        | 1, 4                    | Texto: Coma frutas<br>Fonte: ""                | Inválido           |
 
-Classe Válida: 1, 3
+Classe Vàlida: 1, 2
 
 Classe Inválida:
 - 3, 2
 - 1, 4
+
 ---
+
 ###  H8 - Como usuário PcD, gostaria que o app fizesse a leitura do nome dos alimentos e data de validade em voz alta, para que seja mais acessível.
 
 #### Critérios de Aceitação
@@ -108,18 +112,22 @@ normas de acessibilidade e experiência do usuário.
 
 ### Casos de Teste
 
-| Casos de Teste | Classes de Equivalência | Entradas              | Resultado Esperado |
-|----------------|-------------------------|-----------------------|--------------------|
-| Caso 1         | 1, 2, 3                 | Volume: Ativo/Personalizável com legenda | Válido             |
-| Caso 2         | 4, 2, 3                 | Volume: Desativado/Personalizável com legenda | Inválido           |
-| Caso 3         | 1, 5, 3                 | Volume: Ativo/Fixo com legenda | Inválido           |
-| Caso 4         | 1, 2, 6                 | | Inválido       |
+| Caso de Teste | Classes de Equivalência | Entradas                                                       | Resultado Esperado |
+| ------------- | ----------------------- | -------------------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 2, 3                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Presente      | Válido             |
+| Caso 2        | 4, 2, 3                 | Volume: Desativado<br>Voz: Personalizável<br>Legenda: Presente | Inválido           |
+| Caso 3        | 1, 5, 3                 | Volume: Ativo<br>Voz: Fixa<br>Legenda: Presente                | Inválido           |
+| Caso 4        | 1, 2, 6                 | Volume: Ativo<br>Voz: Personalizável<br>Legenda: Ausente       | Inválido           |
 
-Classe Vàlida: 1, 3, 5
+Classe Vàlida: 1, 2, 3
 
 Classe Inválida:
+- 4, 2, 3
+- 1, 5, 3
+- 1, 2, 6
 
 ---
+
 
 ### H9 - Como suporte técnico, gostaria de criar um menu com respostas de perguntas frequentes, para que os usuários tirem suas dúvidas de forma rápida.
 
@@ -151,7 +159,26 @@ controle de qualidade.
 | Identificação do feedback   | Feedback anônimo (5)                         | Feedback com nome, ID, e-mail do usuário (6)      |
 | Leitura por voz ativada     | Botão visível no canto superior (7)          | Botão ausente, escondido ou fora da área visível (8) |
 
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                                                                              | Resultado Esperado |
+| ------------- | ----------------------- | ----------------------------------------------------------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 2, 3, 4              | Categoria: Acessibilidade<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                           | Válido             |
+| Caso 2        | 5, 2, 3, 4              | Categoria: ""<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Visível                                       | Inválido           |
+| Caso 3        | 1, 6, 3, 4              | Categoria: Backup<br>Feedback: Talvez<br>ID: Anônimo<br>Botão: Visível                                | Inválido           |
+| Caso 4        | 1, 2, 7, 4              | Categoria: Cadastro<br>Feedback: Sim<br>ID: [joao@email.com](mailto:joao@email.com)<br>Botão: Visível | Inválido           |
+| Caso 5        | 1, 2, 3, 8              | Categoria: Cadastro<br>Feedback: Sim<br>ID: Anônimo<br>Botão: Ausente                                 | Inválido           |
+
+Classe Vàlida: 1, 2, 3, 4
+
+Classe Inválida:
+- 5, 2, 3, 4
+- 1, 6, 3, 4
+- 1, 2, 7, 4
+- 1, 2, 3, 8
+
 ---
+
 
 ### H12 - Como usuário, eu quero receber alertas de vencimento com antecedência, para que eu possa consumir os alimentos antes de estragarem.
 
@@ -176,7 +203,22 @@ controle de qualidade.
 | Dias de antecedência       | Entre 1 e 30 dias  (1)                    | 0 dias, negativo ou acima de 30 (2)              |
 | Status do alimento         | Ativo (3)                                    | Inativo, vencido, em recall  (4)                  |
 
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                    | Resultado Esperado |
+| ------------- | ----------------------- | --------------------------- | ------------------ |
+| Caso 1        | 1, 3                    | Dias: 10<br>Status: Ativo   | Válido             |
+| Caso 2        | 2, 3                    | Dias: -1<br>Status: Ativo   | Inválido           |
+| Caso 3        | 1, 4                    | Dias: 15<br>Status: Vencido | Inválido           |
+
+Classe Vàlida: 1, 3
+
+Classe Inválida:
+- 2, 3
+- 1, 4 
+
 ---
+
 
 ###  H14 - Como suporte técnico, eu quero receber notificações automáticas quando um usuário relatar um erro crítico, para que eu possa responder rapidamente e evitar maiores impactos.
 
@@ -203,6 +245,20 @@ controle de qualidade.
 | Nível de gravidade     | Crítico, Alto, Médio, Baixo(1)        | Fora do escopo (ex: "muito crítico")(2)          |
 | Dados sensíveis        | Criptografados com AES-256(3)         | Não criptografados ou com algoritmo inseguro(4)  |
 
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                          | Resultado Esperado |
+| ------------- | ----------------------- | ------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3                    | Gravidade: Alto<br>Criptografia: AES-256          | Válido             |
+| Caso 2        | 2, 3                    | Gravidade: Muito crítico<br>Criptografia: AES-256 | Inválido           |
+| Caso 3        | 1, 4                    | Gravidade: Médio<br>Criptografia: Base64          | Inválido           |
+
+Classe Vàlida: 1, 3
+
+Classe Inválida:
+- 2, 3
+- 1, 4 
+
 ---
 
 ###  H18 - Como usuário, eu quero acessar os alimentos já cadastrados, para que eu ver os alimentos cadastrados.
@@ -228,7 +284,26 @@ explícita do usuário.
 | Botão "Meus Alimentos"       | Visível e funcional(5)                                  | Ausente ou com erro de navegação(6)               |
 | Confirmação de edição/exclusão | Clique em "Confirmar" ou "Sim"(7)                     | Nenhuma resposta ou clique em "Cancelar"(8)      |
 
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                                                         | Resultado Esperado |
+| ------------- | ----------------------- | -------------------------------------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3, 5, 7              | Filtro: Vencidos<br>Ordenação: Nome<br>Botão: Visível<br>Confirmação: Confirmar  | Válido             |
+| Caso 2        | 2, 3, 5, 7              | Filtro: Tipo<br>Ordenação: Nome<br>Botão: Visível<br>Confirmação: Confirmar      | Inválido           |
+| Caso 3        | 1, 4, 5, 7              | Filtro: Todos<br>Ordenação: ID<br>Botão: Visível<br>Confirmação: Confirmar       | Inválido           |
+| Caso 4        | 1, 3, 6, 7              | Filtro: Próximos<br>Ordenação: Local<br>Botão: Ausente<br>Confirmação: Confirmar | Inválido           |
+| Caso 5        | 1, 3, 5, 8              | Filtro: Todos<br>Ordenação: Manual<br>Botão: Visível<br>Confirmação: Cancelar    | Inválido           |
+
+Classe Vàlida: 1, 3, 5, 7
+
+Classe Inválida:
+- 2, 3, 5, 7
+- 1, 4, 5, 7
+- 1, 3, 6, 7
+- 1, 3, 5, 8
+
 ---
+
 
 ### H19 - Como usuário, eu gostaria de compartilhar as dicas de armazenamento de alimentos para outras pessoas via WhatsApp, para que todos possam armazenar da melhor forma.
 
@@ -248,6 +323,20 @@ explícita do usuário.
 |-------------------------------|--------------------------------------|--------------------------------------------------|
 | Texto da dica                 | Verificado e sem links perigosos(1)   | Contém links falsos ou maliciosos (2)             |
 | Quantidade por compartilhamento | Uma dica por vez(3)                   | Múltiplas dicas no mesmo envio  (4)                |
+
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                      | Resultado Esperado |
+| ------------- | ----------------------- | --------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3                    | Texto: verificado<br>Quantidade: 1            | Válido             |
+| Caso 2        | 2, 3                    | Texto: contém link malicioso<br>Quantidade: 1 | Inválido           |
+| Caso 3        | 1, 4                    | Texto: verificado<br>Quantidade: 2            | Inválido           |
+
+Classe Vàlida: 1, 3
+
+Classe Inválida:
+- 2, 3
+- 1, 4 
 
 ---
 
@@ -271,6 +360,22 @@ explícita do usuário.
 | Nome do alimento     | Até 20 caracteres, com letras, acentos, espaços, hífens(1) | Acima de 20 caracteres ou com símbolos inválidos(2)     |
 | Data de validade     | Igual ou posterior à data atual(3)                       | Vencida(4)                                               |
 | Duplicidade          | Alimento único(5)                                        | Já existente na lista(6)                                 |
+
+### Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                                                     | Resultado Esperado |
+| ------------- | ----------------------- | ---------------------------------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3, 5                 | Nome: Feijão<br>Validade: 2026-01-01<br>Duplicidade: Não existe              | Válido             |
+| Caso 2        | 2, 3, 5                 | Nome: Farofa!!! com bacon<br>Validade: 2026-01-01<br>Duplicidade: Não existe | Inválido           |
+| Caso 3        | 1, 4, 5                 | Nome: Arroz<br>Validade: 2020-01-01<br>Duplicidade: Não existe               | Inválido           |
+| Caso 4        | 1, 3, 6                 | Nome: Arroz<br>Validade: 2026-01-01<br>Duplicidade: Já existe                | Inválido           |
+
+Classe Vàlida: 1, 3, 5
+
+Classe Inválida:
+- 2, 3, 5
+- 1, 4, 5
+- 1, 3, 6
 
 ---
 
@@ -299,6 +404,29 @@ explícita do usuário.
 | Quantidade de alimento     | Abaixo do limite (1–10) (9)                         | Negativa, 0 ou acima do limite sem configuração (10)        |
 | Status do alimento         | Ativo (11)                                         | Inativo, expirado ou em recall(12)                         |
 
+###Casos de Teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                                                                                                             | Resultado Esperado |
+| ------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Caso 1        | 1, 3, 5, 7, 9, 11       | Nome: Promoção<br>Qtd etiquetas: 5<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 5<br>Status: Ativo    | Válido             |
+| Caso 2        | 2, 3, 5, 7, 9, 11       | Nome: Promoção!!!<br>Qtd etiquetas: 5<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 5<br>Status: Ativo | Inválido           |
+| Caso 3        | 1, 4, 5, 7, 9, 11       | Nome: Saudável<br>Qtd etiquetas: 15<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 5<br>Status: Ativo   | Inválido           |
+| Caso 4        | 1, 3, 6, 7, 9, 11       | Nome: Rápido<br>Qtd etiquetas: 3<br>Status: Válido<br>Classificação: Única<br>Qtd alimento: 5<br>Status: Ativo       | Inválido           |
+| Caso 5        | 1, 3, 5, 8, 9, 11       | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Múltiplas<br>Qtd alimento: 5<br>Status: Ativo    | Inválido           |
+| Caso 6        | 1, 3, 5, 7, 10, 11      | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 0<br>Status: Ativo        | Inválido           |
+| Caso 7        | 1, 3, 5, 7, 9, 12       | Nome: Café<br>Qtd etiquetas: 3<br>Status: Vencido<br>Classificação: Única<br>Qtd alimento: 3<br>Status: Expirado     | Inválido           |
+
+Classe Vàlida: 1, 3, 5
+
+Classe Inválida:
+- 1, 3, 5, 7, 9, 11
+- 2, 3, 5, 7, 9, 11
+- 1, 4, 5, 7, 9, 11
+- 1, 3, 6, 7, 9, 11
+- 1, 3, 5, 8, 9, 11
+- 1, 3, 5, 7, 10, 11
+- 1, 3, 5, 7, 9, 12
+
 ---
 
 ###  H22 - Como usuário, gostaria que o app criasse uma lista de compras com base dos alimentos que estão acabando, para facilitar no momento das compras.
@@ -322,3 +450,23 @@ explícita do usuário.
 |----------------------------|----------------------------------|-------------------------------------------------|
 | Quantidade de alimento     | Abaixo do limite (1–10) (1)          | Negativa, 0 ou acima do limite sem configuração(2) |
 | Status do alimento         | Ativo(3)                            | Inativo, expirado ou em recall(4)                  |
+
+###Casos de teste
+
+| Caso de Teste | Classes de Equivalência | Entradas                           | Resultado Esperado |
+| ------------- | ----------------------- | ---------------------------------- | ------------------ |
+| Caso 1        | 1, 3                    | Quantidade: 5<br>Status: Ativo     | Válido             |
+| Caso 2        | 2, 3                    | Quantidade: -1<br>Status: Ativo    | Inválido           |
+| Caso 3        | 2, 3                    | Quantidade: 0<br>Status: Ativo     | Inválido           |
+| Caso 4        | 2, 3                    | Quantidade: 12<br>Status: Ativo    | Inválido           |
+| Caso 5        | 1, 4                    | Quantidade: 4<br>Status: Inativo   | Inválido           |
+| Caso 6        | 1, 4                    | Quantidade: 6<br>Status: Expirado  | Inválido           |
+| Caso 7        | 1, 4                    | Quantidade: 7<br>Status: Em Recall | Inválido           |
+
+Classe Vàlida: 1, 3
+
+Classe Inválida:
+- 2, 3
+- 1, 4 
+
+---
