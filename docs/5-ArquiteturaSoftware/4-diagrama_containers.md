@@ -10,4 +10,4 @@ Representa como o sistema funciona como um conjunto de aplicações interligadas
 * Protocolos de comunicação;
 * Usuários ou sistemas externos que interagem com eles.
 
-<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Containers.jpg" style="width:100%"/></p>
+<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Diagrama%20de%20containers.png" style="width:100%"/></p>
