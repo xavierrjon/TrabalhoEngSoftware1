@@ -3,4 +3,4 @@ O nível de código do modelo C4 representa a estrutura interna do sistema, dest
 
 No caso do *EcoMida*, o diagrama de classes mostra os principais elementos, como usuários, alimentos, alertas e autenticação, além de suas interações. Essa visão detalhada facilita a implementação, manutenção e evolução do sistema.
 
-<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/diagrama_classe.jpg" style="width:100%"/></p>
+<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Diagrama%20de%20Classes.jpg" style="width:100%"/></p>
