@@ -8,4 +8,4 @@ Visa apresentar:
 * Tecnologias utilizadas;
 * Interações com componentes externos, como banco de dados, APIs externas ou serviços.
 
-<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Componentes.jpg" style="width:100%"/></p>
+<p align="center"><img src="https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/ArquiteturaSoftware/Diagrama%20componentes.png" style="width:100%"/></p>
