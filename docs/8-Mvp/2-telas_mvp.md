@@ -4,7 +4,7 @@ O MVP (Produto Mínimo Viável) do aplicativo EcoMida foi desenvolvido com o obj
 
 As telas apresentadas a seguir representam a primeira versão funcional do aplicativo, com foco na usabilidade, acessibilidade e praticidade.
 
-1: Tela de Carregamento []()
+1: Tela de Carregamento [Loading Tela](https://github.com/xavierrjon/TrabalhoEngSoftware1/blob/main/docs/Imagens/MVP/loadingTela.png)
 2: Tela de Login []()
 3: Tela de Cadastro []()
 4: Tela da Lista de Produtos []()
